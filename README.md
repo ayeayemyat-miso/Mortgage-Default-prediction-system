@@ -4,20 +4,21 @@
 A mortgage default prediction system designed for the Irish banking market (AIB, Bank of Ireland, Permanent TSB).  
 ## 🚀 Live Demo
 
-**🌐 Deployed on Render:** [https://mortgage-default-prediction-system.onrender.com/](https://mortgage-default-prediction-system-1.onrender.com/)
+| **Dashboard A: New Loan Underwriting** | [https://mortgage-default-prediction-system.onrender.com](https://mortgage-default-prediction-system.onrender.com) |
+| **Dashboard B: Existing Loan Monitoring** | [https://mortgage-default-prediction-system-1.onrender.com](https://mortgage-default-prediction-system-1.onrender.com) |
+
 
 
 ## 📸 Screenshots
-![alt text](image.png)
-
-![alt text](image-1.png)
 The project includes two dashboards:
 
 ### Dashboard A: New Loan Underwriting
-![New Loan Underwriting Dashboard](screenshots/dashboard_a_new_loan.png)
+<img width="902" height="424" alt="image" src="https://github.com/user-attachments/assets/483f111b-d2ff-4c47-8a37-080be6cd8c35" />
+
 *Main underwriting interface with risk assessment and amortization schedule*
 
 ### Dashboard B: Existing Loan Monitoring
+<img width="923" height="404" alt="image" src="https://github.com/user-attachments/assets/890c6db4-1321-4f4f-8a6c-9728d7dfa6e9" />
 
 
 The system follows **Central Bank of Ireland (CBI)** lending guidelines and demonstrates real-world credit risk modelling.
@@ -114,15 +115,13 @@ python retrain_existing_loan_model.py
 python app_preapproval.py
 ```
 
-→ [http://localhost:8051](http://localhost:8051)
+
 
 **Existing Loan Dashboard**
 
 ```bash
 python app.py
 ```
-
-→ [http://localhost:8050](http://localhost:8050)
 
 ---
 

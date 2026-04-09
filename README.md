@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Deployed-Render-purple" alt="Render">
   <img src="https://img.shields.io/badge/License-MIT-lightgrey" alt="License">
 </p>
-markdown
+
 # 🏦 Consumer Loan Underwriting & Default Prediction System
 
 A production-ready dual-dashboard system for consumer loan risk assessment, combining **Machine Learning** with **IFRS 9 rules** for transparent, regulator-friendly credit decisions.

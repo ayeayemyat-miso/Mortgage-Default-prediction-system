@@ -15,8 +15,8 @@ A production-ready dual-dashboard system for consumer loan risk assessment, comb
 
 | Dashboard | Purpose | Link |
 |-----------|---------|------|
-| **Dashboard A** | New Loan Underwriting | [View Demo]([https://your-dashboard-a.onrender.com](https://mortgage-default-prediction-system.onrender.com/)) |
-| **Dashboard B** | Existing Loan Monitoring | [View Demo]([https://your-dashboard-b.onrender.com](https://mortgage-default-prediction-system-1.onrender.com/)) |
+| **Dashboard A** | New Loan Underwriting | [View Demo](https://mortgage-default-prediction-system.onrender.com/) |
+| **Dashboard B** | Existing Loan Monitoring | [View Demo](https://mortgage-default-prediction-system-1.onrender.com/) |
 
 The project includes two dashboards:
 
